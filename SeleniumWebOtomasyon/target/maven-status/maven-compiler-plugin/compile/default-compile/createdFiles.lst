@@ -1,0 +1,7 @@
+pages\BasePage.class
+pages\ProductsPage.class
+pages\SearchBox.class
+pages\CartPage.class
+pages\HomePage.class
+logger\Log.class
+pages\ProductDetailPage.class

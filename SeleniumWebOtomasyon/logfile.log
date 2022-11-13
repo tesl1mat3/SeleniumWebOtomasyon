@@ -1,0 +1,32 @@
+2022-11-13 13:56:55,150 INFO  [Log] productSearch() PASSED 
+2022-11-13 13:57:01,456 INFO  [Log] productSelection() PASSED 
+2022-11-13 13:57:06,214 INFO  [Log] addToCart() PASSED 
+2022-11-13 13:57:08,146 INFO  [Log] goToCart() PASSED 
+2022-11-13 13:57:09,379 INFO  [Log] goToSignIn() PASSED 
+2022-11-13 13:57:09,999 ERROR [Log] signIn() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#ap_password"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f6f9eb880ea300924050282209de760c, findElement {using=id, value=ap_password}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\oguzh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:15857}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:15857/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f6f9eb880ea300924050282209de760c 
+2022-11-13 13:57:10,018 ERROR [Log] clickMainLogo() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-logo\-sprites"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f6f9eb880ea300924050282209de760c, findElement {using=id, value=nav-logo-sprites}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\oguzh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:15857}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:15857/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f6f9eb880ea300924050282209de760c 
+2022-11-13 13:57:10,030 ERROR [Log] clickCartLogo() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f6f9eb880ea300924050282209de760c, findElement {using=id, value=nav-cart-count-container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\oguzh\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:15857}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:15857/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f6f9eb880ea300924050282209de760c 
